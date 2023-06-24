@@ -1,1 +1,2 @@
 This a fileC
+Making the change to test Squash
